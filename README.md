@@ -15,8 +15,8 @@
 
   ## Installation
   Clone the repo down. Navigate to the source folder then run:
-  >npm install
-    >npm start
+  >npm install  
+  npm start
 
   ## Author
   This project was created by:  
