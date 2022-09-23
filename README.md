@@ -11,12 +11,12 @@
   Live Demo: https://markdrecoll.github.io/react-tetris/
 
   ## Description
-  This is a tetris game created with React. This project uses react hooks such as useState, useEffect, useCallback, and custom hooks. The styling is done using styled components. 
+  This is the game Tetris created with React. This project uses react hooks such as useState, useEffect, useCallback, and custom hooks. The styling is done using styled components. 
 
   ## Installation
   Clone the repo down. Navigate to the source folder then run:
   >npm install
-  >npm start
+    >npm start
 
   ## Author
   This project was created by:  
@@ -26,3 +26,4 @@
   mark@markdrecoll.com  
   
   ## Screenshot
+  ![react_tetris_thumbnail_01](https://user-images.githubusercontent.com/77694281/192033310-8eb46e8f-753c-4509-b623-1aa0834dae2a.png)
