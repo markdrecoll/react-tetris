@@ -115,6 +115,7 @@ const Tetris = () => {
                         </div>
                     )}
                     <StartButton callback={startGame} />
+                    <Display text="To play, please use the arrow keys on your keyboard. Currently unavailable on mobile."></Display>
                 </aside>
             </StyledTetris>
         </StyledTetrisWrapper>
